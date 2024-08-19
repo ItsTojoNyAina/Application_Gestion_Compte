@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,12 +9,15 @@ namespace Gestion_Compte_App.Models
 {
     internal class Intervenant
     {
+        [Key]
+        public int Id { get; set; }
         public string Nom { get; set; }
         public string QualificationBase { get; set; }
         public double QualificationIntervention { get; set; }
         public double TarifJournalier { get; set; }
         public int JoursHommes { get; set; }
 
+        public Intervenant() { }
         public Intervenant(string nom, string qualificationBase, double qualificationIntervention, double tarifJournalier, int joursHommes)
         {
             Nom = nom;
