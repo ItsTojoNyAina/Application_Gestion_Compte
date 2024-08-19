@@ -1,0 +1,29 @@
+﻿<Window x:Class="Gestion_Compte_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gestion Compte App" Height="450" Width="800">
+    <Grid>
+        <!-- Champs pour entrer les détails de l'intervenant -->
+        <Label Content="Nom:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <TextBox Name="NomTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="170,10,0,0" Width="200"/>
+
+        <Label Content="Qualification Base:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,50,0,0"/>
+        <TextBox Name="QualificationBaseTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="170,50,0,0" Width="200"/>
+
+        <Label Content="Qualification Intervention:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,90,0,0"/>
+        <TextBox Name="QualificationInterventionTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="170,90,0,0" Width="200"/>
+
+        <Label Content="Tarif Journalier:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,130,0,0"/>
+        <TextBox Name="TarifJournalierTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="170,130,0,0" Width="200"/>
+
+        <Label Content="Jours de Travail:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,170,0,0"/>
+        <TextBox Name="JoursHommesTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="170,170,0,0" Width="200"/>
+
+        <!-- Boutons pour ajouter un intervenant et calculer le coût -->
+        <Button Content="Ajouter Intervenant" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,210,0,0" Width="150" Click="AjouterIntervenant_Click"/>
+        <Button Content="Calculer Coût Total" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="170,210,0,0" Width="150" Click="CalculerCoutTotal_Click"/>
+
+        <!-- TextBlock pour afficher les résultats -->
+        <TextBlock Name="ResultatTextBlock" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,260,0,0" Width="760" Height="150" TextWrapping="Wrap"/>
+    </Grid>
+</Window>
