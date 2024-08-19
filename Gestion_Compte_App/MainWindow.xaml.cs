@@ -27,16 +27,27 @@ namespace Gestion_Compte_App
         {
             try
             {
-                string nom = NomTextBox.Text;
-                string qualificationBase = QualificationBaseTextBox.Text;
-                double qualificationIntervention = double.Parse(QualificationInterventionTextBox.Text);
-                double tarifJournalier = double.Parse(TarifJournalierTextBox.Text);
-                int joursHommes = int.Parse(JoursHommesTextBox.Text);
+                using (var context = new AppDbContext())
+                {
+                    string nom = NomTextBox.Text;
+                    string qualificationBase = QualificationBaseTextBox.Text;
 
-                var intervenant = new Intervenant(nom, qualificationBase, qualificationIntervention, tarifJournalier, joursHommes);
-                intervenants.Add(intervenant);
+                    if (double.TryParse(QualificationInterventionTextBox.Text, out double qualificationIntervention) &&
+                        double.TryParse(TarifJournalierTextBox.Text, out double tarifJournalier) &&
+                        int.TryParse(JoursHommesTextBox.Text, out int joursHommes))
+                    {
+                        var intervenant = new Intervenant(nom, qualificationBase, qualificationIntervention, tarifJournalier, joursHommes);
+                        context.Intervenants.Add(intervenant);
+                        context.SaveChanges();
 
-                ResultatTextBlock.Text += $"Intervenant {nom} ajouté.\n";
+                        intervenants.Add(intervenant);
+                        ResultatTextBlock.Text += $"Intervenant {nom} ajouté et enregistré dans la base de données.\n";
+                    }
+                    else
+                    {
+                        MessageBox.Show("Erreur: Veuillez entrer des valeurs numériques valides.");
+                    }
+                }
             }
             catch (Exception ex)
             {

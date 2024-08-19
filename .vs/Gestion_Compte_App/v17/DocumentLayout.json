@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Migrations\\20240819132632_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestion_Compte_App\\Migrations\\20240819132632_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|c:\\users\\itsto\\source\\repos\\gestion_compte_app\\gestion_compte_app\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|solutionrelative:gestion_compte_app\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,19 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240819132632_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Migrations\\20240819132632_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Gestion_Compte_App\\Migrations\\20240819132632_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Migrations\\20240819132632_InitialCreate.cs",
+              "RelativeToolTip": "Gestion_Compte_App\\Migrations\\20240819132632_InitialCreate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:26:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\Models\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Models\\AppDbContext.cs",
               "RelativeToolTip": "Gestion_Compte_App\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T12:03:18.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Gestion_Compte_App.csproj",
               "DocumentMoniker": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Gestion_Compte_App.csproj",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\Gestion_Compte_App.csproj",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\App.xaml.cs",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\App.xaml.cs",
@@ -88,11 +105,12 @@
               "RelativeToolTip": "Gestion_Compte_App\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T13:13:18.112Z"
+              "WhenOpened": "2024-08-17T13:13:18.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\App.xaml",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\App.xaml",
@@ -104,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\AssemblyInfo.cs",
@@ -117,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\MainWindow.xaml.cs",
@@ -130,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Intervention.cs",
               "DocumentMoniker": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Models\\Intervention.cs",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\Models\\Intervention.cs",
@@ -138,11 +156,12 @@
               "RelativeToolTip": "Gestion_Compte_App\\Models\\Intervention.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T13:18:45.007Z"
+              "WhenOpened": "2024-08-17T13:18:45.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Intervenant.cs",
               "DocumentMoniker": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Models\\Intervenant.cs",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\Models\\Intervenant.cs",
@@ -155,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\MainWindow.xaml",
