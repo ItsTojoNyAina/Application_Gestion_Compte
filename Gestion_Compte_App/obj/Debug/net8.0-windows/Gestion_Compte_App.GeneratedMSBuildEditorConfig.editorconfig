@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Gestion_Compte_App
-build_property.ProjectDir = C:\Users\itsto\source\repos\Gestion_Compte_App\Gestion_Compte_App\
+build_property.ProjectDir = D:\ISPM\L3 (2023-2024)\IS\Projet\Application_Gestion_Compte\Gestion_Compte_App\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
