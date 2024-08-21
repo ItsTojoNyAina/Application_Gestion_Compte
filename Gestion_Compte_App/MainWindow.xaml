@@ -8,7 +8,7 @@
             <ColumnDefinition Width="383*"/>
             <ColumnDefinition Width="17*"/>
         </Grid.ColumnDefinitions>
-        <!-- Champs pour entrer les détails de l'intervenant -->
+       
         <Label Content="Nom:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
         <TextBox Name="NomTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="170,10,0,0" Width="200"/>
 
@@ -28,12 +28,12 @@
         <Button Content="Ajouter Intervenant" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,210,0,0" Width="150" Click="AjouterIntervenant_Click"/>
         <Button Content="Calculer Coût Total" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="170,210,0,0" Width="150" Click="CalculerCoutTotal_Click"/>
 
-        <!-- TextBlock pour afficher les résultats -->
+
         <TextBlock Name="ResultatTextBlock" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,260,0,0" Width="760" Height="150" TextWrapping="Wrap" Grid.ColumnSpan="2"/>
-        <lvc:CartesianChart Name="CoutChart" Margin="10,300,10,10">
-            <lvc:CartesianChart.Series>
-                <lvc:LineSeries Values="{Binding CoutValues}" PointGeometrySize="15"/>
-            </lvc:CartesianChart.Series>
+
+
+        <lvc:CartesianChart Name="CoutChart" Margin="10,300,10,10" Series="{Binding CoutValues}">
+            
         </lvc:CartesianChart>
     </Grid>
 </Window>

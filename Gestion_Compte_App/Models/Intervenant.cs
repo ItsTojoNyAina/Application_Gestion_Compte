@@ -17,7 +17,9 @@ namespace Gestion_Compte_App.Models
         public double TarifJournalier { get; set; }
         public int JoursHommes { get; set; }
 
+        // Constructeur par défaut requis par EF Core
         public Intervenant() { }
+
         public Intervenant(string nom, string qualificationBase, double qualificationIntervention, double tarifJournalier, int joursHommes)
         {
             Nom = nom;
@@ -39,7 +41,7 @@ namespace Gestion_Compte_App.Models
 
         private double F(double qualification)
         {
-            return 1.0;  // Simple fonction linéaire, peut être adaptée selon vos besoins.
+            return 1.0;
         }
     }
 }

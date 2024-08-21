@@ -1,4 +1,6 @@
-﻿namespace Gestion_Compte_App.Models
+﻿using System.Collections.Generic;
+
+namespace Gestion_Compte_App.Models
 {
     internal class Intervention
     {
