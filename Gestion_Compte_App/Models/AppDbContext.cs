@@ -13,7 +13,7 @@ namespace Gestion_Compte_App.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\intervenant.db");
+            optionsBuilder.UseSqlite("Data Source= **Copier le chemin de intervenant.db dans votre machine et le coller ici pour pouvoir lier la BDD au code**");
         }
     }
 }
