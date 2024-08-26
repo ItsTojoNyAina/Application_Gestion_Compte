@@ -2643,23 +2643,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\itsto\\.nuget\\packages\\": {},
+    "C:\\Users\\Volahanitra\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Gestion_Compte_App.csproj",
+      "projectUniqueName": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Gestion_Compte_App.csproj",
       "projectName": "Gestion_Compte_App",
-      "projectPath": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Gestion_Compte_App.csproj",
-      "packagesPath": "C:\\Users\\itsto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\obj\\",
+      "projectPath": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Gestion_Compte_App.csproj",
+      "packagesPath": "C:\\Users\\Volahanitra\\.nuget\\packages\\",
+      "outputPath": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\itsto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Volahanitra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2730,16 +2730,22 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
   "logs": [
     {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    },
+    {
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Le package 'LiveCharts 0.9.7' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net8.0-windows7.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "message": "Package 'LiveCharts 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "LiveCharts",
       "targetGraphs": [
         "net8.0-windows7.0"
@@ -2749,7 +2755,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Le package 'LiveCharts.Wpf 0.9.7' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net8.0-windows7.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "message": "Package 'LiveCharts.Wpf 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
       "libraryId": "LiveCharts.Wpf",
       "targetGraphs": [
         "net8.0-windows7.0"

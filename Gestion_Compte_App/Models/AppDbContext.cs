@@ -13,7 +13,7 @@ namespace Gestion_Compte_App.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\intervenant.db");
+            optionsBuilder.UseSqlite("Data Source=D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\intervenant.db");
         }
     }
 }

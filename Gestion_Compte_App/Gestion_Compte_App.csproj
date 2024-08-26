@@ -9,6 +9,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="43 Best Minimalist Desktop Wallpapers for Free - Onedesblog.jpg" />
+    <None Remove="84270822_2844026805657845_7964128157273948160_n.jpg" />
+    <None Remove="cesar-couto-25JH-1t8rXE-unsplash.jpg" />
+    <None Remove="demon-slayer-kimetsu-no-yaiba-wallpaper-04.jpg" />
+    <None Remove="Logo ISPM.jpg" />
+    <None Remove="Pictures-download-abstract-minimalist-wallpaper-HD.jpg" />
+    <None Remove="simple-desktops-fonds-decrans-simples-jolis-L-zdJSJ2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Logo ISPM.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.8" />
@@ -16,6 +30,16 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="43 Best Minimalist Desktop Wallpapers for Free - Onedesblog.jpg" />
+    <Resource Include="84270822_2844026805657845_7964128157273948160_n.jpg" />
+    <Resource Include="cesar-couto-25JH-1t8rXE-unsplash.jpg" />
+    <Resource Include="demon-slayer-kimetsu-no-yaiba-wallpaper-04.jpg" />
+    <Resource Include="Logo ISPM.jpg" />
+    <Resource Include="Pictures-download-abstract-minimalist-wallpaper-HD.jpg" />
+    <Resource Include="simple-desktops-fonds-decrans-simples-jolis-L-zdJSJ2.png" />
   </ItemGroup>
 
 </Project>

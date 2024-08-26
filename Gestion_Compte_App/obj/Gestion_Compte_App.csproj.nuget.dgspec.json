@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Gestion_Compte_App.csproj": {}
+    "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Gestion_Compte_App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Gestion_Compte_App.csproj": {
+    "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Gestion_Compte_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Gestion_Compte_App.csproj",
+        "projectUniqueName": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Gestion_Compte_App.csproj",
         "projectName": "Gestion_Compte_App",
-        "projectPath": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Gestion_Compte_App.csproj",
-        "packagesPath": "C:\\Users\\itsto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\obj\\",
+        "projectPath": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Gestion_Compte_App.csproj",
+        "packagesPath": "C:\\Users\\Volahanitra\\.nuget\\packages\\",
+        "outputPath": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\itsto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Volahanitra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -88,7 +88,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
