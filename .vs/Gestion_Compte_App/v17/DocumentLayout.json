@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|d:\\ispm\\l3 (2023-2024)\\is\\projet\\application_gestion_compte\\gestion_compte_app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|solutionrelative:gestion_compte_app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|d:\\ispm\\l3 (2023-2024)\\is\\projet\\application_gestion_compte\\gestion_compte_app\\models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|solutionrelative:gestion_compte_app\\models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|d:\\ispm\\l3 (2023-2024)\\is\\projet\\application_gestion_compte\\gestion_compte_app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|solutionrelative:gestion_compte_app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|d:\\ispm\\l3 (2023-2024)\\is\\projet\\application_gestion_compte\\gestion_compte_app\\models\\intervenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|solutionrelative:gestion_compte_app\\models\\intervenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|d:\\ispm\\l3 (2023-2024)\\is\\projet\\application_gestion_compte\\gestion_compte_app\\gestion_compte_app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|solutionrelative:gestion_compte_app\\gestion_compte_app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|d:\\ispm\\l3 (2023-2024)\\is\\projet\\application_gestion_compte\\gestion_compte_app\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +15,27 @@
       "RelativeMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|solutionrelative:gestion_compte_app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|d:\\ispm\\l3 (2023-2024)\\is\\projet\\application_gestion_compte\\gestion_compte_app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|solutionrelative:gestion_compte_app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|d:\\ispm\\l3 (2023-2024)\\is\\projet\\application_gestion_compte\\gestion_compte_app\\models\\intervenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|solutionrelative:gestion_compte_app\\models\\intervenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|d:\\ispm\\l3 (2023-2024)\\is\\projet\\application_gestion_compte\\gestion_compte_app\\models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|solutionrelative:gestion_compte_app\\models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|d:\\ispm\\l3 (2023-2024)\\is\\projet\\application_gestion_compte\\gestion_compte_app\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|solutionrelative:gestion_compte_app\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Migrations\\20240821133227_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|d:\\ispm\\l3 (2023-2024)\\is\\projet\\application_gestion_compte\\gestion_compte_app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63F7BB6-5A17-4DBF-8B05-926446B96A17}|Gestion_Compte_App\\Gestion_Compte_App.csproj|solutionrelative:gestion_compte_app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,84 +61,101 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gestion_Compte_App",
+              "DocumentMoniker": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Gestion_Compte_App.csproj",
+              "RelativeDocumentMoniker": "Gestion_Compte_App\\Gestion_Compte_App.csproj",
+              "ToolTip": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Gestion_Compte_App.csproj",
+              "RelativeToolTip": "Gestion_Compte_App\\Gestion_Compte_App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T09:43:30.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\Migrations\\AppDbContextModelSnapshot.cs",
               "ToolTip": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "Gestion_Compte_App\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAgAAAAAMTMzMzMbwBIAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:20:18.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T15:20:18.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\MainWindow.xaml",
               "ToolTip": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\MainWindow.xaml",
               "RelativeToolTip": "Gestion_Compte_App\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-21T14:53:25.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T14:53:25.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "20240821133227_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Migrations\\20240821133227_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\itsto\\source\\repos\\Gestion_Compte_App\\Gestion_Compte_App\\Migrations\\20240821133227_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:32:27.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\Models\\AppDbContext.cs",
               "ToolTip": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Models\\AppDbContext.cs",
               "RelativeToolTip": "Gestion_Compte_App\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACGAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T12:53:31.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Intervenant.cs",
               "DocumentMoniker": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Models\\Intervenant.cs",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\Models\\Intervenant.cs",
               "ToolTip": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Models\\Intervenant.cs",
               "RelativeToolTip": "Gestion_Compte_App\\Models\\Intervenant.cs",
-              "ViewState": "AgIAAAgAAAC4ODMzMzMLwAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T12:29:16.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T12:29:16.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\MainWindow.xaml.cs",
               "ToolTip": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\MainWindow.xaml.cs",
               "RelativeToolTip": "Gestion_Compte_App\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAIwCMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T12:29:51.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T12:29:51.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Intervention.cs",
               "DocumentMoniker": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Models\\Intervention.cs",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\Models\\Intervention.cs",
               "ToolTip": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\Models\\Intervention.cs",
               "RelativeToolTip": "Gestion_Compte_App\\Models\\Intervention.cs",
-              "ViewState": "AgIAAAMAAAAgAAAAAIAZwCMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T12:19:33.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T12:19:33.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\ISPM\\L3 (2023-2024)\\IS\\Projet\\Application_Gestion_Compte\\Gestion_Compte_App\\App.xaml.cs",
               "RelativeDocumentMoniker": "Gestion_Compte_App\\App.xaml.cs",
@@ -139,8 +163,7 @@
               "RelativeToolTip": "Gestion_Compte_App\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T13:54:32.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T13:54:32.123Z"
             }
           ]
         }

@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("logo%20ispm.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ispm.ico")]
 
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gestion_Compte_App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17a0b9c7b47b69c46be69a17c108c7663e86815c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a7a10e60af23ddc8f4e7cc31d8e2226fa540487")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gestion_Compte_App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gestion_Compte_App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

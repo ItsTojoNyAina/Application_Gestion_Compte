@@ -1,0 +1,17 @@
+Début : Vous commencez avec une QualificationIntervention initiale pour chaque intervenant.
+
+Itérations : Pour un nombre d'itérations donné, la qualification est ajustée en ajoutant 
+un petit incrément (deltaQualification), multiplié par une fonction 
+(ici, simplement F(QualificationIntervention) qui retourne 1.0, 
+donc l'ajustement est linéaire).
+
+Arrêt : Le processus s'arrête soit après un nombre fixe d'itérations, 
+soit si le changement est inférieur à un seuil (seuil).
+
+Objectif :
+L'objectif de cette méthode est de simuler un processus d'amélioration 
+ou d'ajustement progressif de la qualification d'un intervenant, en fonction 
+d'une règle simple donnée par la fonction F.
+
+En résumé, la méthode d'Euler dans cet algorithme ajuste la QualificationIntervention à chaque pas d'itération, 
+permettant ainsi d'estimer l'impact de petits ajustements successifs sur le coût total de l'intervention.
